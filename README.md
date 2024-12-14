@@ -34,19 +34,19 @@ usb改键只需连接分体键盘左手即可进行改键，蓝牙改键只需�
 ![image](https://github.com/mctechnology17/zmk-nice-oled/blob/main/assets/preview2.JPG?raw=true)
 ### nice view
 nice view作为一款基本可以说为zmk而生的屏幕，其显示内容也十分丰富  
-本仓库默认使用的nice view module为[Hammerbeam Slideshow](https://github.com/GPeye/hammerbeam-slideshow) @GPeye
-![image](https://github.com/GPeye/hammerbeam-slideshow/blob/main/assets/hammerbeam.png)
-![image](https://github.com/GPeye/hammerbeam-slideshow/blob/main/assets/20240913_193934.png)
-这是一个非常好玩的module，他为nice view提供相当多的图片，并且能够进行10秒一次的切换，切换时间可以进行修改。
+本仓库默认使用的nice view module为[Hammerbeam Slideshow](https://github.com/GPeye/hammerbeam-slideshow) @GPeye  
+![image](https://github.com/GPeye/hammerbeam-slideshow/blob/main/assets/hammerbeam.png)  
+![image](https://github.com/GPeye/hammerbeam-slideshow/blob/main/assets/20240913_193934.png)  
+这是一个非常好玩的module，他为nice view提供相当多的图片，并且能够进行10秒一次的切换，切换时间可以进行修改。  
 以下为github上开源的nice view的zmk module  
-[nice_view_elemental](https://github.com/kevinpastor/nice-view-elemental)l @kevinpastor
-![image](https://github.com/kevinpastor/nice-view-elemental/blob/main/assets/banner.png)
-[nice_view_gem](https://github.com/M165437/nice-view-gem) @M165437
-![image](https://github.com/m165437/nice-view-gem/blob/main/.github/assets/preview.jpg?raw=true)
-这个和默认的oled显示内容是一样的，为动画，但其实oled那个module是从这个module移植来的，反正就是好玩就行了
-[nice_view_cats](https://github.com/s6t/zmk-shield-nice-view-cats) @s6t
-![image](https://github.com/s6t/zmk-shield-nice-view-cats/blob/main/images/image1.png)
-谁不想要在键盘上养两只猫猫呢
-[nice_view_battery](https://github.com/infely/nice-view-battery) @infely  
-![image](https://github.com/infely/nice-view-battery/blob/main/.github/assets/preview.jpg?raw=true)
-这个module显示的内容十分简约，有一种简单的美
+[nice_view_elemental](https://github.com/kevinpastor/nice-view-elemental)l @kevinpastor  
+![image](https://github.com/kevinpastor/nice-view-elemental/blob/main/assets/banner.png)  
+[nice_view_gem](https://github.com/M165437/nice-view-gem) @M165437  
+![image](https://github.com/m165437/nice-view-gem/blob/main/.github/assets/preview.jpg?raw=true)  
+这个和默认的oled显示内容是一样的，为动画，但其实oled那个module是从这个module移植来的，反正就是好玩就行了  
+[nice_view_cats](https://github.com/s6t/zmk-shield-nice-view-cats) @s6t  
+![image](https://github.com/s6t/zmk-shield-nice-view-cats/blob/main/images/image1.png)  
+谁不想要在键盘上养两只猫猫呢  
+[nice_view_battery](https://github.com/infely/nice-view-battery) @infely    
+![image](https://github.com/infely/nice-view-battery/blob/main/.github/assets/preview.jpg?raw=true)  
+这个module显示的内容十分简约，有一种简单的美  
