@@ -29,4 +29,6 @@ usb改键只需连接分体键盘左手即可进行改键，蓝牙改键只需�
 没什么好说的，请参考[zmk文档](https://zmk.dev/docs/config/power#low-power-states)
 电池上报√ rgb休眠√ 休眠时间设置√ 
 ### oled
-![Uploading image.png…]()
+默认的oled显示的内容用了github上开源的zmk module[nice_oled](https://github.com/mctechnology17/zmk-nice-oled?tab=readme-ov-file)
+这个module是动画的，还是很好玩的，同时感谢作者的开源@mctechnology17
+![image](https://github.com/mctechnology17/zmk-nice-oled/blob/main/assets/preview2.JPG?raw=true)
