@@ -35,7 +35,11 @@ zmk潜在的comebo，tap dance等按键功能如需要请参照[zmk文档](https
 或直接于键盘固件代码config文件中
 `CONFIG_ZMK_RGB_UNDERGLOW_EFF_START`的值进行修改
 |value|       光效        |
+
 |  0  |       纯色        |
+
 |  1  |       呼吸        |
+
 |  2  |       光谱        |
+
 |  3  |       旋流        |
