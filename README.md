@@ -1,4 +1,4 @@
-# zmk for keyboards
+![image](https://github.com/user-attachments/assets/5336290e-6bdd-4253-9d98-e1935a2b1151)# zmk for keyboards
 这是一个存放有多个分体式键盘zmk固件源码以及已编译固件的仓库  
 corne sofle（RGB，choc） lily58（目前只有这几个，以后或许会有其他键盘放入）  
 本仓库固件所测试用pcb均来自[PandaKB外设](https://pandakb.taobao.com/shop/view_shop.htm?spm=a21n57.1.0.0.5d79523cNmnkU0&appUid=RAzN8HWMnqHhQPoqPWJj8vvpxQEUo4LsYqKaxNw4JRKQfkmLoFX)
@@ -32,3 +32,21 @@ usb改键只需连接分体键盘左手即可进行改键，蓝牙改键只需�
 默认的oled显示的内容用了github上开源的zmk module[nice_oled](https://github.com/mctechnology17/zmk-nice-oled?tab=readme-ov-file)
 这个module是动画的，还是很好玩的，同时感谢作者的开源@mctechnology17
 ![image](https://github.com/mctechnology17/zmk-nice-oled/blob/main/assets/preview2.JPG?raw=true)
+### nice view
+nice view作为一款基本可以说为zmk而生的屏幕，其显示内容也十分丰富  
+本仓库默认使用的nice view module为[Hammerbeam Slideshow](https://github.com/GPeye/hammerbeam-slideshow) @GPeye
+![image](https://github.com/GPeye/hammerbeam-slideshow/blob/main/assets/hammerbeam.png)
+![image](https://github.com/GPeye/hammerbeam-slideshow/blob/main/assets/20240913_193934.png)
+这是一个非常好玩的module，他为nice view提供相当多的图片，并且能够进行10秒一次的切换，切换时间可以进行修改。
+以下为github上开源的nice view的zmk module  
+[nice_view_elemental](https://github.com/kevinpastor/nice-view-elemental)l @kevinpastor
+![image](https://github.com/kevinpastor/nice-view-elemental/blob/main/assets/banner.png)
+[nice_view_gem](https://github.com/M165437/nice-view-gem) @M165437
+![image](https://github.com/m165437/nice-view-gem/blob/main/.github/assets/preview.jpg?raw=true)
+这个和默认的oled显示内容是一样的，为动画，但其实oled那个module是从这个module移植来的，反正就是好玩就行了
+[nice_view_cats](https://github.com/s6t/zmk-shield-nice-view-cats) @s6t
+![image](https://github.com/s6t/zmk-shield-nice-view-cats/blob/main/images/image1.png)
+谁不想要在键盘上养两只猫猫呢
+[nice_view_battery](https://github.com/infely/nice-view-battery) @infely  
+![image](https://github.com/infely/nice-view-battery/blob/main/.github/assets/preview.jpg?raw=true)
+这个module显示的内容十分简约，有一种简单的美
