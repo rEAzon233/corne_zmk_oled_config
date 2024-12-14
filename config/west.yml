@@ -4,10 +4,20 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: petejohanson
       url-base: https://github.com/petejohanson
+    - name: gpeye
+      url-base: https://github.com/GPeye
+    - name: mctechnology17
+      url-base: https://github.com/mctechnology17
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
+    - name: hammerbeam-slideshow
+      remote: gpeye
+      revision: main
+    - name: zmk-nice-oled
+      remote: mctechnology17
+      revision: main
   self:
     path: config
