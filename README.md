@@ -50,3 +50,26 @@ nice view作为一款基本可以说为zmk而生的屏幕，其显示内容也�
 [nice_view_battery](https://github.com/infely/nice-view-battery) @infely    
 ![image](https://github.com/infely/nice-view-battery/blob/main/.github/assets/preview.jpg?raw=true)  
 这个module显示的内容十分简约，有一种简单的美  
+而如何进行nice view显示内容的切换？以下为简单教程
+在build.yml文件中  
+'shield: corne_left nice_view_adapter nice_view_custom'  
+'shield: corne_right nice_view_adapter nice_view_custom'  
+只需通过修改nice_view_custom为其他module相应的内容就可以进行切换
+|       module       |       修改内容        |
+|-|-|
+|Hammerbeam Slideshow|   nice_view_custom   |
+|-|-|
+|nice_view_elemental |  nice_view_elemental |
+|-|-|
+|    nice_view_gem   |    nice_view_gem     |
+|-|-|
+|   nice_view_cats   |    nice_view_cats    |
+|-|-|
+| nice_view_battery  |   nice_view_battery  |
+## 可能会有的其他功能
+zmk在最近加入了point device（指点设备），就是一些类似于鼠标键，轨迹球，触摸板，指点杆等设备的支持，未来可能会有，是一个futural todo :)
+其次是dongle的支持，目前最新的有彩屏的st7789屏幕做2.4g接收器，这也是一个 futural todo :)
+最后，感谢zmk的开源，以及各种module的开源的作者的无私奉献
+如果这个仓库对你有帮助，:)
+
+
