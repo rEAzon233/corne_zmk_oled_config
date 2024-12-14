@@ -51,9 +51,9 @@ nice view作为一款基本可以说为zmk而生的屏幕，其显示内容也�
 ![image](https://github.com/infely/nice-view-battery/blob/main/.github/assets/preview.jpg?raw=true)  
 这个module显示的内容十分简约，有一种简单的美  
 而如何进行nice view显示内容的切换？以下为简单教程
-在build.yml文件中  
-'shield: corne_left nice_view_adapter nice_view_custom'  
-'shield: corne_right nice_view_adapter nice_view_custom'  
+如在build.yml文件中  
+`shield: corne_left nice_view_adapter nice_view_custom` 
+`shield: corne_right nice_view_adapter nice_view_custom`  
 只需通过修改nice_view_custom为其他module相应的内容就可以进行切换
 |       module       |       修改内容        |
 |-|-|
