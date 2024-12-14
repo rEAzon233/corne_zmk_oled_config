@@ -67,9 +67,9 @@ nice view作为一款基本可以说为zmk而生的屏幕，其显示内容也�
 |-|-|
 | nice_view_battery  |   nice_view_battery  |
 ## 可能会有的其他功能
-zmk在最近加入了point device（指点设备），就是一些类似于鼠标键，轨迹球，触摸板，指点杆等设备的支持，未来可能会有，是一个futural todo :)
-其次是dongle的支持，目前最新的有彩屏的st7789屏幕做2.4g接收器，这也是一个 futural todo :)
-最后，感谢zmk的开源，以及各种module的开源的作者的无私奉献
-如果这个仓库对你有帮助，:)
+zmk在最近加入了point device（指点设备），就是一些类似于鼠标键，轨迹球，触摸板，指点杆等设备的支持，未来可能会有，是一个futural todo :)  
+其次是dongle的支持，目前最新的有彩屏的st7789屏幕做2.4g接收器，这也是一个 futural todo :)  
+最后，感谢zmk的开源，以及各种module的开源的作者的无私奉献  
+如果这个仓库对你有帮助，:)  
 
 
